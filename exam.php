@@ -1,6 +1,4 @@
 <?php
-$year = isset($_GET['year']) || $_GET['year'] == '') {
-  header("location: ../../../pages;
 if (!isset($_GET['year']) || $_GET['year'] == '') {
   header("location: ../../../pages/NE_grade_12_NS.php");
 } else {
