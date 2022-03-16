@@ -8,6 +8,8 @@ The user is able to:
 > For instance, 2007 chemistry full exam.
 ![All Subjects](/assets/allSubs.png)
 2. Get questions from a specific grade. 
-> For example, 12th grade questions from 2009 physics exam.
+> For example, 12th grade questions from 2009 chemistry exam.
+![2009 exam](/assets/chemList.png)
 3. Get Questions from a specific chapter. 
 > For example, questions from chapter 3 of 12th grade mathematics.
+![math chapter 3](/assets/ByChapter.png)
