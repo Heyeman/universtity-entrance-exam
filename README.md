@@ -1,5 +1,5 @@
 # Ethiopian University Entrance Exam
-Contains Backend server application for an examination website: [euee.epizy.com](https://euee.epizy.com)
+Contains Backend server application for an examination website: [euee.epizy.com](http://euee.epizy.com)
 
 The website has Ethiopian University Entrance Exam questions from the year 2005 upto 2010 countaining roughly around 5400 questions from seven subjects.
 
