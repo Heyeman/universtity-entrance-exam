@@ -6,6 +6,7 @@ The website has Ethiopian University Entrance Exam questions from the year 2005 
 The user is able to:
 1. Take full exams by which he/she is able to do all the questions of an exam from a specific year. 
 > For instance, 2007 chemistry full exam.
+![All Subjects](/assets/allSubs.png)
 2. Get questions from a specific grade. 
 > For example, 12th grade questions from 2009 physics exam.
 3. Get Questions from a specific chapter. 
