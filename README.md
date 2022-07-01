@@ -16,9 +16,6 @@ The user is able to:
 
 
 
-[<img src="https://github.com/favicon.ico" width="48">](https://github.com/wubeZ) [LinkedIn](www.linkedin.com/in/wubshet-zeleke-1a6aa71a8)
-[<img src="https://github.com/favicon.ico" width="48">](https://github.com/tesfaymebre) [LinkedIn](www.linkedin.com/in/tesfamichael-asfaw)
+* [Github](https://github.com/wubeZ) [LinkedIn](www.linkedin.com/in/wubshet-zeleke-1a6aa71a8)
+* [Github](https://github.com/tesfaymebre) [LinkedIn](www.linkedin.com/in/tesfamichael-asfaw)
 
-
-* Wubshet Zeleke [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (https://github.com/wubeZ))]  [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (www.linkedin.com/in/wubshet-zeleke-1a6aa71a8))] [Email](wubezeleke@gmail.com)
-* Tesfamichael Asfaw [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (https://github.com/tesfaymebre))  [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (www.linkedin.com/in/tesfamichael-asfaw))]  [Email](tesfaymebre@gmail.com)
