@@ -15,4 +15,6 @@ The user is able to:
 ![math chapter 3](/assets/ByChapter.png)
 
 
-[Github](https://github.com/heyeman)
+
+[Github ![Logo](https://cdn-icons-png.flaticon.com/512/25/25231.png)](https://github.com/heyeman) 
+
