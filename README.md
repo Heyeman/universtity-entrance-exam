@@ -16,6 +16,3 @@ The user is able to:
 
 
 
-* [Github](https://github.com/wubeZ) [LinkedIn](www.linkedin.com/in/wubshet-zeleke-1a6aa71a8)
-* [Github](https://github.com/tesfaymebre) [LinkedIn](www.linkedin.com/in/tesfamichael-asfaw)
-
