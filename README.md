@@ -16,6 +16,4 @@ The user is able to:
 
 
 
-[Github ![Logo](https://cdn-icons-png.flaticon.com/512/25/25231.png =200X200)](https://github.com/heyeman) 
-
-<img src="https://github.com/favicon.ico" width="48">
+[Github <img src="https://github.com/favicon.ico" width="48">](https://github.com/heyeman) 
